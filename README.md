@@ -10,4 +10,4 @@ Hemos conformado un grupo inicial de organizadores locales para organizar la pri
 
 El objetivo es que la organización del evento sea abierta y transparente de modo de seguir sumando interesados (particulares y empresas) por lo que el objetivo de este proyecto es usarlo como plataforma de colaboración para la organización del evento.
 
-En la [WIKI](https://github.com/devopsdaysasu/docs/wiki) vamos dejando las minutas de las reuniones e información relevante y los [distintos temas se tratarán como issues individuales](https://github.com/devopsdaysasu/docs/projects/1).
+En la [WIKI](https://github.com/devopsdaysasu/info/wiki) vamos dejando las minutas de las reuniones e información relevante y los [distintos temas se tratarán como issues individuales](https://github.com/devopsdaysasu/docs/projects/1).
