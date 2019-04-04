@@ -1,0 +1,2 @@
+# info
+DevOpsDays Asunción - Organización
